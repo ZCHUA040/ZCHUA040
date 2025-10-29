@@ -2,6 +2,7 @@
 
 🔒 Passionate about building secure systems, discovering vulnerabilities, and automating security testing.  
 💻 Currently exploring exploit development, VAPT (Vulnerability Assessment & Penetration Testing), and AI-assisted triage automation.
+🧑‍💻 Currently working to expand on Gen-1.0 eduquest for my Final Year Project focusing on including better prompt for quest generation and building more mini games
 
 ---
 
