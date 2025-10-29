@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zhi Li
 
 🔒 Passionate about building secure systems, discovering vulnerabilities, and automating security testing.  
-💻 Exploring vulnerability triaging and AI-assisted triage automation.  
+💻 Exploring vulnerability triaging and web exploitation. Preparing for OSCP in Jan'26
 🎓 Currently developing **EduQuest Gen-2**, an enhanced version of previous project - focusing on improved prompt generation for quests and building interactive mini-games to boost engagement.
 
 ---
