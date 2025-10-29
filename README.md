@@ -28,7 +28,7 @@
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
 | [🧠 AI-Assisted Triage Sandbox](https://github.com/yourusername/ai-triage-sandbox) | AI-driven vulnerability triage system integrating Burp Suite & Playwright via Model Context Protocol. | Python, Playwright, LLM Orchestration |
-| [🔍 EduQuest Web App](https://github.com/yourusername/eduquest-frontend) | Full-stack learning platform with secure user authentication and inquiry-based AI assistant. | React, Flask, JWT, SQLite |
+| [🔍 EduQuest Web App](https://github.com/ZCHUA040/EduQuest-Frontend-ReactJS) | Full-stack learning platform with secure user authentication and inquiry-based AI assistant. | React, Flask, JWT, SQLite |
 | [🧰 OOP Design Patterns (Java)](https://github.com/yourusername/oop-design-patterns) | Demonstrates core OOP concepts and system design — foundation for secure software. | Java |
 | [📊 XAI Forecasting Framework](https://github.com/yourusername/xai-forecasting-stb) | Explainable AI framework for time-series forecasting (STB internship project). | Python, SARIMAX, SHAP |
 
