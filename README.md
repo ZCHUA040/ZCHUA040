@@ -31,8 +31,9 @@
 | [🗺️ AiXplorer](https://github.com/ZCHUA040/EduQuest-Frontend-ReactJS) | AI-powered travel planner that generates personalized day-trip itineraries across Singapore, featuring secure authentication, activity discovery, and itinerary management. | React · Flask · JWT · SQLite |
 
 ---
-### 🏅 Certifications & Credentials  
-[Credential: CredsVerse ID f5bdf1e2-3b16-4d59-913b-4cb2dbee45d4](https://credsverse.com/credentials/f5bdf1e2-3b16-4d59-913b-4cb2dbee45d4)  
+### 🧠🏁 CTF
+[TISC'25 PARTICIPATION](https://credsverse.com/credentials/f5bdf1e2-3b16-4d59-913b-4cb2dbee45d4)  
+[SANS Challenge Coin - SEC560]
 
 ---
 
