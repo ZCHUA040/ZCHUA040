@@ -36,7 +36,7 @@
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhi%20Li%20Chua-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zhi-li-chua/)
-[![Email](https://img.shields.io/badge/Email-zchua040%e.ntu.edu.sg-red?style=flat-square&logo=gmail)](mailto:zchua040@e.ntu.edu.sg)
+[![Email](https://img.shields.io/badge/Email-zchua040@e.ntu.edu.sg-red?style=flat-square&logo=gmail)](mailto:zchua040@e.ntu.edu.sg)
 [![GitHub](https://img.shields.io/badge/GitHub-zhilichua-black?style=flat-square&logo=github)](https://github.com/zhilichua)
 
 ---
