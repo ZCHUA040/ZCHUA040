@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zhi Li — Final Year Computer Science Undergraduate
+# 👋 Hi, I'm Zhi Li
 
 🔒 Passionate about building secure systems, discovering vulnerabilities, and automating security testing.  
 💻 Exploring exploit development, VAPT (Vulnerability Assessment & Penetration Testing), and AI-assisted triage automation.  
