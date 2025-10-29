@@ -8,7 +8,7 @@
 
 ### 🧭 About Me
 - 🎓 Final-year Computer Science student at Nanyang Technological University (NTU)
-- 🧠 Exploring the cybersecurity domain - in web exploitation, automation, and red-team tooling
+- 🧠 Exploring the cybersecurity domain - in web exploitation and automation
 - 🧑‍💻 Experienced in building AI-assisted workflows and full-stack applications
 - 🏗️ Believe in *engineering first, security always* - combining development and defense thinking
 
