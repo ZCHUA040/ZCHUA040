@@ -32,8 +32,8 @@
 
 ---
 ### 🧠🏁 CTF
-[TISC'25 PARTICIPATION](https://credsverse.com/credentials/f5bdf1e2-3b16-4d59-913b-4cb2dbee45d4)  
-[SANS Challenge Coin - SEC560]
+- [TISC'25 PARTICIPATION](https://credsverse.com/credentials/f5bdf1e2-3b16-4d59-913b-4cb2dbee45d4)  
+- SANS Challenge Coin - SEC560
 
 ---
 
