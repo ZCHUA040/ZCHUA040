@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zhi Li
 
 🔒 Passionate about building secure systems, discovering vulnerabilities, and automating security testing.  
-💻 Exploring exploit development, VAPT (Vulnerability Assessment & Penetration Testing), and AI-assisted triage automation.  
+💻 Exploring vulnerability triaging and AI-assisted triage automation.  
 🎓 Currently developing **EduQuest Gen-2**, an enhanced version of previous project - focusing on improved prompt generation for quests and building interactive mini-games to boost engagement.
 
 ---
