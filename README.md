@@ -28,7 +28,6 @@
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
 | [🔍 EduQuest Web App](https://github.com/ZCHUA040/EduQuest-Frontend-ReactJS) | Full-stack learning platform with gamification through quest and mini games to promote participation in tutorial. | Django, React, Flask  |
-| [🧰 OOP Design Patterns (Java)](https://github.com/yourusername/oop-design-patterns) | Demonstrates core OOP concepts and system design — foundation for secure software. | Java |
 | [🗺️ AIXplorer](https://github.com/ZCHUA040/EduQuest-Frontend-ReactJS) | AiXexplore is a full-stack web application designed to help users generate personalised, AI-powered day-trip itineraries across Singapore. It offers a seamless user experience with secure authentication, activity discovery, intelligent planning, and itinerary management.| React, Flask, JWT, SQLite |
 
 ---
