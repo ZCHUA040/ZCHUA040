@@ -18,7 +18,7 @@
 **Languages:** Python, Java, JavaScript, SQL, C, Assembly  
 **Web-Frameworks:** Flask, React, Django, Node.js  
 **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark  
-**Automation & AI:** LangChain, MCP Server
+**Automation & AI:** LangChain, MCP Server  
 **Databases:** PostgreSQL, SQLite  
 **Others:** Git, Docker, Linux, JWT, REST APIs
 
