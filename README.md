@@ -19,6 +19,7 @@
 **Web-Frameworks:** Flask, React, Django, Node.js  
 **Security Tools:** Burp Suite, Nmap, Metasploit, Wireshark  
 **Automation & AI:** LangChain, MCP Server
+
 **Databases:** PostgreSQL, SQLite  
 **Others:** Git, Docker, Linux, JWT, REST APIs
 
