@@ -39,10 +39,4 @@
 
 ---
 
-### 📈 GitHub Stats
-![Zhi Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhilichua&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhilichua&layout=compact&theme=tokyonight)
-
----
-
 ⭐ *“Secure code is better than clever code — build, test, and defend.”*
