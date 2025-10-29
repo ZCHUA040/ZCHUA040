@@ -8,9 +8,8 @@
 
 ### 🧭 About Me
 - 🎓 Final-year Computer Science student at Nanyang Technological University (NTU)
-- 🧰 Strong foundation in software engineering (Java, Python, Flask, React)
 - 🧠 Exploring the cybersecurity domain — focusing on web exploitation, automation, and red-team 
-- 🧑‍💻 Previously built AI-assisted triage systems (Burp + Playwright + LLM), full-stack apps, and OOP-based systems
+- 🧑‍💻 Previously built AI-assisted workflow and full-stack apps
 - 🏗️ Believe in *engineering first, security always* — combining development and defense thinking
 
 ---
