@@ -2,7 +2,7 @@
 
 🔒 Passionate about building secure systems, discovering vulnerabilities, and automating security testing.  
 💻 Exploring exploit development, VAPT (Vulnerability Assessment & Penetration Testing), and AI-assisted triage automation.  
-🎓 Currently developing **EduQuest Gen-2**, an enhanced version of previous project — focusing on improved prompt generation for quests and building interactive mini-games to boost engagement.
+🎓 Currently developing **EduQuest Gen-2**, an enhanced version of previous project - focusing on improved prompt generation for quests and building interactive mini-games to boost engagement.
 
 ---
 
@@ -31,6 +31,10 @@
 | [🗺️ AiXplorer](https://github.com/ZCHUA040/EduQuest-Frontend-ReactJS) | AI-powered travel planner that generates personalized day-trip itineraries across Singapore, featuring secure authentication, activity discovery, and itinerary management. | React · Flask · JWT · SQLite |
 
 ---
+### 🏅 Certifications & Credentials  
+[Credential: CredsVerse ID f5bdf1e2-3b16-4d59-913b-4cb2dbee45d4](https://credsverse.com/credentials/f5bdf1e2-3b16-4d59-913b-4cb2dbee45d4)  
+
+---
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhi%20Li%20Chua-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zhi-li-chua/)  
@@ -39,4 +43,4 @@
 
 ---
 
-⭐ *“Secure code is better than clever code — build, test, and defend.”*
+⭐ *“Secure code is better than clever code - build, test, and defend.”*
