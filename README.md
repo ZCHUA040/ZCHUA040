@@ -5,6 +5,7 @@
 - 🎓 Final-year Computer Science student at Nanyang Technological University (NTU)
 - 🧠 Exploring the cybersecurity domain - in web exploitation and automation. Preparing for OSCP in January 2026
 - 🧑‍💻 Experienced in building AI-assisted workflows and full-stack applications
+- Currently working on extending on Generation 2 Eduquest to enhance on prompt to generate better quest based on student's cognitive level and including more interactive mini games
 
 ---
 ### 🧩 Technical Skills
