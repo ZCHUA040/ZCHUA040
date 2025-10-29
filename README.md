@@ -74,3 +74,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zhi%20Li%20Chua-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zhi-li-chua/)  
 [![Email](https://img.shields.io/badge/Email-zchua040@e.ntu.edu.sg-red?style=flat-square&logo=gmail)](mailto:zchua040@e.ntu.edu.sg)  
 [![GitHub](https://img.shields.io/badge/GitHub-zchua040-black?style=flat-square&logo=github)](https://github.com/zchua040)
+
+---
+
+### 📊 GitHub Stats
+
+![Zhi Li's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZCHUA040&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZCHUA040&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ZCHUA040&theme=tokyonight&hide_border=true)
+
+---
