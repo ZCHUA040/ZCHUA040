@@ -54,7 +54,7 @@
 ### 🔥 Notable Projects
 | Project | Description | Tech Stack |
 |----------|--------------|------------|
-| [🎓 EduQuest Gen-2](https://github.com/ZCHUA040/EduQuest-Frontend-ReactJS) | Full-stack learning platform with gamification — quests and mini-games to enhance tutorial participation and engagement. | Django · React · Flask |
+| [🎓 EduQuest Gen-2](https://github.com/ZCHUA040/EduQuest-Frontend-ReactJS) | Full-stack learning platform with gamification - quests and mini-games to enhance tutorial participation and engagement. | Django · React · Flask |
 | [🗺️ AiXplorer](https://github.com/ZCHUA040/AI-Explorer) | AI-powered travel planner that generates personalized day-trip itineraries across Singapore, featuring secure authentication, activity discovery, and itinerary management. | React · Flask · JWT · SQLite |
 
 ---
